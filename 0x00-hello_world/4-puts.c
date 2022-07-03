@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-/*
+/**
+ * main -Entry point
  * printing using the puts command through main
- * main - is the starting point
- * return should be zero
+ *
+ * Return: should always be 0 zero
  */
 
 int main(void)
