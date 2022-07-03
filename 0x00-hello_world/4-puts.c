@@ -3,7 +3,7 @@
 /*printing using the puts command through main
  *main is the starting point
  *return should be zero
- * */
+ */
 
 int main(void)
 {
