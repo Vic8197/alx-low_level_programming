@@ -12,6 +12,6 @@ int main(void)
 		putchar(q);
 	for (q = 'A' ; q = 'Z' ; q++)
 		putchar(q);
-	putchar('\n');
-	return (0);
+putchar('\n');
+return (0);
 }
