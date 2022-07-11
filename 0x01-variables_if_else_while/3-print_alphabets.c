@@ -4,7 +4,7 @@
  * print uppercase and lowercase
  * Return: zero
  */
-int main (void)
+int main(void)
 {
 	char q;
 
