@@ -3,7 +3,7 @@
 /**
  * main - print possible combo
  *
- * Retun: zero
+ * Return: zero
  */
 
 int main(void)
