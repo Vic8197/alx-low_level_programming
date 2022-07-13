@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_alphabet - prints alphabet
+ * print_alphabet_x10 - prints alphabet
  *
  * Return: zero
  */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	int alphabet
 	int count
